@@ -1,11 +1,11 @@
 {
   "root": true,
   "project": {
-    "name": "PROJECT_NAME"
+    "name": "JAMTrain"
   },
   "api": {
-    "projectId": "PROJECT_ID",
-    "dataset": "DATASET_ID"
+    "projectId": "ge9oy8a5",
+    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
